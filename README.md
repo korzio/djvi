@@ -37,7 +37,7 @@ env.instance('test#/common');
 
 JSON Schema instantiator should generate `minimal` object, valid to a given schema.
 
-- **not required** properties will be ommitted
+- **not required** properties will be omitted
 - **maximum** and **minimum** will be set up for given number
 - primitives **types** are instantiated with default values
 ```
